@@ -1,0 +1,23 @@
+ body {
+      padding-top: 70px; 
+      padding-bottom: 40px; 
+      background: #f8f9fa;
+      min-height: 100vh;
+    }
+    .presentation {
+      min-height: calc(100vh - 110px);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-direction: column;
+      text-align: center;
+    }
+    .presentation h1 {
+      font-weight: 700;
+      color: #198754; 
+    }
+    .presentation p {
+      max-width: 800px;
+      margin: 20px auto;
+      font-size: 1.1rem;
+    }
