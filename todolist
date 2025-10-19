@@ -1,0 +1,22 @@
+1-comprendre la loi des finances 
+
+idees et structures:(exemple peut etre modifie)....
+_Accueil (introduction, avant-propos)
+_perspective eco
+_Recettes
+_Dépenses
+_Déficit budgétaire
+_Extraits de dispositions fiscales et douanières
+_Acronyme et Glossaire (a revoir)
+
+2-creer une database pour le projet
+3-creation d Accueil du projet
+4-integration des db dans le php
+5-creation des differentes pages de navigations
+???-css et bootstrap 
+
+Accueil:
+_barre dynamique ou statique de navigation...navbar(header.php)
+_presentation des differentes structures a partir des pages
+_insertion des donnees dans les tableaux par formulaires
+
