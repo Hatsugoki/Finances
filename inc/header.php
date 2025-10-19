@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-<link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
 <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 <nav class="navbar navbar-expand-md navbar-dark bg-success fixed-top shadow-sm">
