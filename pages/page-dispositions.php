@@ -7,7 +7,7 @@
     <title></title>
 </head>
 <body>
-    <?php include '../inc/header.php'; ?>
+    <?php include '../inc/header-page.php'; ?>
     <?php include '../inc/footer.php'; ?>
 </body>
 </html>

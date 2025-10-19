@@ -16,7 +16,7 @@
     <div class="collapse navbar-collapse flex-grow-0" id="navbarMain">
       <ul class="navbar-nav me-auto mb-2 mb-md-0 ms-3">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="index.php">
+          <a class="nav-link active" aria-current="page" href="../index.php">
             <i class="bi bi-house-door"></i> Accueil
           </a>
         </li>
