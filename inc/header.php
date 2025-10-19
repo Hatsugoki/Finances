@@ -2,9 +2,9 @@
 <script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 <nav class="navbar navbar-expand-md navbar-dark bg-success fixed-top shadow-sm">
-  <div class="container-fluid">
-    <a class="navbar-brand fw-bold" href="#">
-      <i class="bi bi-bootstrap"></i> MonSite
+  <div class="container-fluid d-flex justify-content-between align-items-center">
+    <a class="navbar-brand fw-bold me-auto" href="#">
+      <i class="bi bi-bootstrap"></i> BUDGET DES CITOYENS RELATIF A LA LOI DE FINANCES 2025
     </a>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarMain"
@@ -12,10 +12,10 @@
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarMain">
-      <ul class="navbar-nav me-auto mb-2 mb-md-0">
+    <div class="collapse navbar-collapse flex-grow-0" id="navbarMain">
+      <ul class="navbar-nav me-auto mb-2 mb-md-0 ms-3">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">
+          <a class="nav-link active" aria-current="page" href="./index.php">
             <i class="bi bi-house-door"></i> Accueil
           </a>
         </li>
