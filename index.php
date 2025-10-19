@@ -54,9 +54,9 @@
     <h2 class="text-success mb-4 text-center">Découvrir le BUDGET DES CITOYENS RELATIF À LA LOI DE FINANCES 2025 - Madagascar</h2>
   
     <div class="row g-4">
-        <!-- I. Perspectives economiques -->
+
         <div class="col-md-6">
-        <a href="page-perspectives.php" class="text-decoration-none text-dark">
+        <a href="pages/page-perspectives.php" class="text-decoration-none text-dark">
             <div class="border rounded p-3 h-100 shadow-sm">
             <h5 class="fw-bold">I. Perspectives economiques</h5>
             <ul class="mb-0 small">
@@ -66,9 +66,8 @@
         </a>
     </div>
 
-    <!-- II. Recettes -->
     <div class="col-md-6">
-        <a href="page-recettes.php" class="text-decoration-none text-dark">
+        <a href="pages/page-recettes.php" class="text-decoration-none text-dark">
             <div class="border rounded p-3 h-100 shadow-sm">
             <h5 class="fw-bold">II. Recettes</h5>
             <ul class="mb-0 small">
@@ -82,9 +81,9 @@
         </a>
     </div>
 
-    <!-- III. Depenses -->
+   
     <div class="col-md-6">
-        <a href="page-depenses.php" class="text-decoration-none text-dark">
+        <a href="pages/page-depenses.php" class="text-decoration-none text-dark">
             <div class="border rounded p-3 h-100 shadow-sm">
             <h5 class="fw-bold">III. Depenses</h5>
             <ul class="mb-0 small">
@@ -99,9 +98,8 @@
         </a>
     </div>
 
-    <!-- IV. Deficit budgetaire -->
     <div class="col-md-6">
-        <a href="page-deficit.php" class="text-decoration-none text-dark">
+        <a href="pages/page-deficit.php" class="text-decoration-none text-dark">
             <div class="border rounded p-3 h-100 shadow-sm">
             <h5 class="fw-bold">IV. Deficit budgetaire</h5>
             <ul class="mb-0 small">
@@ -112,9 +110,9 @@
         </a>
     </div>
 
-    <!-- V. Extraits de dispositions fiscales et douanieres -->
+    
     <div class="col-md-6">
-        <a href="page-dispositions.php" class="text-decoration-none text-dark">
+        <a href="pages/page-dispositions.php" class="text-decoration-none text-dark">
             <div class="border rounded p-3 h-100 shadow-sm">
             <h5 class="fw-bold">V. Extraits de dispositions fiscales et douanieres</h5>
             <ul class="mb-0 small">
