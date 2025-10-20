@@ -21,3 +21,23 @@
       margin: 20px auto;
       font-size: 1.1rem;
     }
+
+
+.budget-card {
+        color: white;
+        text-align: center;
+        padding: 30px 20px;
+        border-radius: 15px;
+        transition: transform 0.3s, box-shadow 0.3s;
+        font-weight: bold;
+    }
+    .budget-card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 20px rgba(0,0,0,0.3);
+        text-decoration: none;
+        color: white;
+    }
+    .depense { background-color: #ff9900; }
+    .fin-ext { background-color: #28a745; }
+    .fin-int { background-color: #17a2b8; }
+    .budget-value { font-size: 1.8rem; margin-top: 10px; }
