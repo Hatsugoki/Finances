@@ -28,28 +28,28 @@
     <div class="row g-4 justify-content-center">
 
         <div class="col-md-3">
-            <a href="depenses.php" class="budget-card depense d-block">
+            <a href="pages/page-depenses.php" class="budget-card depense d-block">
                 DÉPENSE TOTALE<br>
                 <span class="budget-value">16 304,9 milliards</span>
             </a>
         </div>
 
         <div class="col-md-3">
-            <a href="deficit.php" class="budget-card depense d-block">
+            <a href="pages/page-perspectives.php" class="budget-card depense d-block">
                 DÉFICIT BUDGÉTAIRE<br>
                 <span class="budget-value">3 642,2 milliards</span>
             </a>
         </div>
 
         <div class="col-md-3">
-            <a href="financement_exterieur.php" class="budget-card fin-ext d-block">
+            <a href="pages/page-recettes.php" class="budget-card fin-ext d-block">
                 FINANCEMENT EXTÉRIEUR<br>
                 <span class="budget-value">3 147,6 milliards</span>
             </a>
         </div>
 
         <div class="col-md-3">
-            <a href="financement_interieur.php" class="budget-card fin-int d-block">
+            <a href="pages/page-recettes.php" class="budget-card fin-int d-block">
                 FINANCEMENT INTÉRIEUR<br>
                 <span class="budget-value">494,6 milliards</span>
             </a>
