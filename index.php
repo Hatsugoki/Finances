@@ -24,29 +24,40 @@
     <a href="#decouvrir-bdc" class="btn btn-success btn-lg mt-3">Decouvrir les BDC</a>
     </section>
 
-    <section id="avant-propos" class="container my-5" style="padding-top: 70px;">
-        <div class="border rounded p-4 shadow-sm bg-white">
-            <h3 class="text-success fw-bold mb-3 text-center">Avant-propos</h3>
-            <p class="mb-0">
-                    Le Ministère de l’Économie et des Finances présente le Budget des Citoyens 2025,
-                    une version simplifiée et facilement accessible de la Loi de Finances. Ce document a
-                    été conçu pour permettre à tous les citoyens de comprendre les grandes orientations
-                    budgétaires de l’État.
-                    Avec un langage clair et des explications simples, le Budget des Citoyens reflète l’en-
-                    gagement du gouvernement à promouvoir la transparence et à rapprocher les citoyens
-                    de la gestion des finances publiques. Il met en lumière les priorités économiques et
-                    sociales définies pour 2025 et de passage, met en exergue comment les ressources
-                    publiques sont utilisées pour répondre aux besoins de la population.
-                    Au fil des années, des efforts constants ont permis d’améliorer ce document, notam-
-                    ment en simplifiant les termes complexes et en présentant les informations essentielles
-                    comme les grandes catégories de dépenses de manière compréhensible pour tous.
-                    Disponible en malagasy et en français, ce Budget des Citoyens sera diffusé largement
-                    sur les plateformes numériques et dans des espaces publics dans tout Madagascar.
-                    Ainsi, tout un chacun est sollicité de partager ce Budget des citoyens afin d’atteindre
-                    la finalité qui est la transparence budgétaire.
-            </p>
+<div class="container py-5">
+    <div class="row g-4 justify-content-center">
+
+        <div class="col-md-3">
+            <a href="depenses.php" class="budget-card depense d-block">
+                DÉPENSE TOTALE<br>
+                <span class="budget-value">16 304,9 milliards</span>
+            </a>
         </div>
-    </section>
+
+        <div class="col-md-3">
+            <a href="deficit.php" class="budget-card depense d-block">
+                DÉFICIT BUDGÉTAIRE<br>
+                <span class="budget-value">3 642,2 milliards</span>
+            </a>
+        </div>
+
+        <div class="col-md-3">
+            <a href="financement_exterieur.php" class="budget-card fin-ext d-block">
+                FINANCEMENT EXTÉRIEUR<br>
+                <span class="budget-value">3 147,6 milliards</span>
+            </a>
+        </div>
+
+        <div class="col-md-3">
+            <a href="financement_interieur.php" class="budget-card fin-int d-block">
+                FINANCEMENT INTÉRIEUR<br>
+                <span class="budget-value">494,6 milliards</span>
+            </a>
+        </div>
+
+    </div>
+</div>
+
 
 
     
@@ -97,24 +108,11 @@
             </div>
         </a>
     </div>
-
-    <div class="col-md-6">
-        <a href="pages/page-deficit.php" class="text-decoration-none text-dark">
-            <div class="border rounded p-3 h-100 shadow-sm">
-            <h5 class="fw-bold">IV. Deficit budgetaire</h5>
-            <ul class="mb-0 small">
-                <li>Situation du deficit</li>
-                <li>Financement du deficit</li>
-            </ul>
-            </div>
-        </a>
-    </div>
-
     
     <div class="col-md-6">
         <a href="pages/page-dispositions.php" class="text-decoration-none text-dark">
             <div class="border rounded p-3 h-100 shadow-sm">
-            <h5 class="fw-bold">V. Extraits de dispositions fiscales et douanieres</h5>
+            <h5 class="fw-bold">IV. Extraits de dispositions fiscales et douanieres</h5>
             <ul class="mb-0 small">
                 <li>Nouvelles dispositions dans le code des impots</li>
             </ul>

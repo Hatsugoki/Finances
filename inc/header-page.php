@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="../assets/bootstrap/css/bootstrap.min.css">
-<script src="assets/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="../assets/bootstrap/js/bootstrap.bundle.min.js"></script>
 
 <nav class="navbar navbar-expand-md navbar-dark bg-success fixed-top shadow-sm">
   <div class="container-fluid d-flex justify-content-between align-items-center">
-    <a class="navbar-brand fw-bold me-auto" href="#">
+    <a class="navbar-brand fw-bold me-auto" href="../index.php">
       <i class="bi bi-bootstrap"></i> BUDGET DES CITOYENS RELATIF A LA LOI DE FINANCES 2025
     </a>
 
@@ -19,23 +19,15 @@
             <i class="bi bi-house-door"></i> Accueil
           </a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#"><i class="bi bi-link-45deg"></i> Lien</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" tabindex="-1" aria-disabled="true">Desactive</a>
-        </li>
 
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" id="dropdownMenu" role="button" data-bs-toggle="dropdown"
             aria-expanded="false">
-            <i class="bi bi-caret-down-square"></i> Menu
+            <i class="bi bi-caret-down-square"></i> ADMIN
           </a>
           <ul class="dropdown-menu" aria-labelledby="dropdownMenu">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Autre action</a></li>
-            <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Quelque chose ici</a></li>
+            <li><a class="dropdown-item" href="admin-log.php">Connexion admin</a></li>
+
           </ul>
         </li>
       </ul>
